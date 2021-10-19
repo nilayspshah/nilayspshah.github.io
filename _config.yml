@@ -6,19 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Travelling Programmer
 
 # Your name to show in the footer
-author: Some Person
+author: Nilay Shah
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://twitter.com/programmingTils"
 
 # --- Logo --- #
 
@@ -39,12 +37,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  email: "someone@example.com"
+  github: nilayspshah
+  twitter: programmingTils
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali

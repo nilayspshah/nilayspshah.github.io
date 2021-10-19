@@ -2,7 +2,7 @@
 layout: post
 title: How Does Zoom Work?
 subtitle: Understanding Zoom Application
-tags: [zoom] [architecture] 
+tags: [architecture] 
 comments: true
 ---
 
