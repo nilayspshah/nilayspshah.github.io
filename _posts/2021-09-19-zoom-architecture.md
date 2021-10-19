@@ -68,3 +68,15 @@ Encoding is required to reduce redundancy in data being transmitted, over low in
 - Zoom uses websockets to manage their connections via browser, which uses TCP, which leads to bad performance in case poor networks. UDP connections are not supported directly via websockets,
 - For that zoom would need to use WebRTC, which they started using but in a different way..
 - Essentially, to avoid browser as an intermediary, zoom nudges us to use their client as it gets more control over the experience 
+
+
+Sources:
+
+https://lavivienpost.com/how-zoom-works/
+https://sjsu.edu/workanywhere/docs/Zoom%20Message.pdf
+https://webrtchacks.com/zoom-avoids-using-webrtc/
+https://bloggeek.me/when-will-zoom-use-webrtc/
+https://blog.zoom.us/zoom-can-provide-increase-industry-leading-video-capacity/
+https://medium.com/@vsachdeva/zoom-video-conf-tool-at-scale-e86289c290b8
+https://web.wpi.edu/Pubs/E-project/Available/E-project-031020-183422/unrestricted/ebactsIQPreport.pdf
+http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html
