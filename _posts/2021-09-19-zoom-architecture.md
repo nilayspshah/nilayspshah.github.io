@@ -72,11 +72,11 @@ Encoding is required to reduce redundancy in data being transmitted, over low in
 
 Sources:
 
-https://lavivienpost.com/how-zoom-works/
-https://sjsu.edu/workanywhere/docs/Zoom%20Message.pdf
-https://webrtchacks.com/zoom-avoids-using-webrtc/
-https://bloggeek.me/when-will-zoom-use-webrtc/
-https://blog.zoom.us/zoom-can-provide-increase-industry-leading-video-capacity/
-https://medium.com/@vsachdeva/zoom-video-conf-tool-at-scale-e86289c290b8
-https://web.wpi.edu/Pubs/E-project/Available/E-project-031020-183422/unrestricted/ebactsIQPreport.pdf
-http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html
+(https://lavivienpost.com/how-zoom-works/)
+(https://sjsu.edu/workanywhere/docs/Zoom%20Message.pdf)
+(https://webrtchacks.com/zoom-avoids-using-webrtc/)
+(https://bloggeek.me/when-will-zoom-use-webrtc/)
+(https://blog.zoom.us/zoom-can-provide-increase-industry-leading-video-capacity/)
+(https://medium.com/@vsachdeva/zoom-video-conf-tool-at-scale-e86289c290b8)
+(https://web.wpi.edu/Pubs/E-project/Available/E-project-031020-183422/unrestricted/ebactsIQPreport.pdf)
+(http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html)
